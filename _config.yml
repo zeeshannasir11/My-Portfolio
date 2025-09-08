@@ -1,0 +1,19 @@
+# Site settings
+title: "Muhammad Tayyab – Azure SME"
+description: "Azure Solution Architect"
+theme: jekyll-theme-cayman
+url: "https://MuhammadTayyab26.github.io"
+baseurl: "/My-Portfolio"
+
+# Author info
+author:
+  name: "Muhammad Tayyab"
+  email: "muhammadtayyab26@outlook.com"
+  linkedin: "https://www.linkedin.com/in/muhammadtayyab26/"
+  github: "https://github.com/MuhammadTayyab26"
+
+# Plugins (optional, adds SEO + RSS feed)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
