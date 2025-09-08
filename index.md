@@ -22,7 +22,7 @@ Architecting Cloud Solutions | Securing Infrastructure | Automating for Impact
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="About Me" width="100">
 </p>
 
-⚡This engineer automates with precision, architects with vision, and scales with confidence!
+This engineer automates with precision, architects with vision, and scales with confidence!
 
 I’m **Muhammad Tayyab** — a computer science graduate turned **Azure Solution Architect**, passionate about designing **cloud-first, secure, and scalable platforms**.  
 At **Systems Limited**, I design and automate Azure infrastructures for global enterprises, enabling seamless deployments with Terraform and Azure DevOps.  
