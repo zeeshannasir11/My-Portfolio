@@ -35,17 +35,26 @@ As a **Microsoft Certified Trainer (MCT)**, I also deliver **technical trainings
   <img src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png" alt="Experience" width="100">
 </p>
 
-- **Practice Lead – Core Engineering | Microtechx (2025–Present)**  
-   Leading DevOps + Development practice, architecting pipelines & mentoring engineers.  
+- **Azure SME | Mashreq Bank**  
+   Leading DevOps + architecting pipelines.  
 
-- **Platform Engineer | Pack (2025–Present)**  
-   Engineering scalable cloud-first solutions.  
+- **Azure Cloud Engineer | Infront Consultancy**
+   Azure Infra Management and Deployment using Terraform.  
 
-- **DevOps Engineer | Systems Limited (2024–2025)**  
-   Hands-on with CI/CD, Terraform, Azure, GitHub Actions, Kubernetes.  
+- **DevOps Engineer | Music Tribe**  
+   Azure Infra Management and Automation.  
 
-- **React Developer | Erstech (2023)**  
-   Built scalable front-end solutions with ReactJS.  
+- **Azure Cloud Engineer | United Nations Relief and Work Agency**  
+   UN Agency Cloud Migration, Infrastructure Optimization, implementation of Intune and IAC.
+   
+- **Azure Cloud Engineer | Team Viewer**  
+   Azure Environment Optimization.
+
+- **Azure Cloud Engineer | K-Electric**  
+   Migration from On-premises to Azure and across Tenants.
+
+- **Azure Cloud Engineer | Al-Karam Galleria**  
+   E-Commerce Platform Rehosting from AWS to Azure
 
 
 
