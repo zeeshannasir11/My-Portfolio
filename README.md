@@ -3,7 +3,7 @@
 Welcome to my personal **GitHub Blog Repository**!  
 This repo powers my GitHub Pages portfolio site, where I share my journey as a **DevOps Engineer, Azure SME, and Tech Trainer**.  
 
-🌍 **Live Blog:** [Visit Here](https://MuhammadTayyab26microtechx-gmbh.github.io/My-Portfolio/)  
+🌍 **Live Blog:** [Visit Here](https://MuhammadTayyab26.github.io/My-Portfolio/)  
 
 
 
