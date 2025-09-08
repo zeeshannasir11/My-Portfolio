@@ -5,7 +5,7 @@
 
 <!-- Profile Image (Your own image) -->
 <p align="center">
-<img src="./assests/images/linkedin-profile.png" alt="Muhammad Tayyab" width="200" style="border-radius:50%; box-shadow:0px 4px 12px rgba(0,0,0,0.2)">
+<img src="./assests/images/linkedin-profile.jpeg" alt="Muhammad Tayyab" width="200" style="border-radius:50%; box-shadow:0px 4px 12px rgba(0,0,0,0.2)">
 </p>
 
 # Muhammad Tayyab  
